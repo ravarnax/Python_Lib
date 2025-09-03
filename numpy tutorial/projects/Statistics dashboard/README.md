@@ -43,7 +43,8 @@ Example Boxplot Output
 <img width="1604" height="1128" alt="image" src="https://github.com/user-attachments/assets/7e25ddb2-9a20-467d-8dae-b23801d75c63" />
 
 
-🔧 Tech Stack
+
+🔧 Tech Stack:
 Python 🐍
 NumPy ➗
 Matplotlib 📊
@@ -52,7 +53,8 @@ Matplotlib 📊
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 
-📜 License
 
+
+📜 License
 This project is licensed under the MIT License - see the LICENSE
  file for details.
