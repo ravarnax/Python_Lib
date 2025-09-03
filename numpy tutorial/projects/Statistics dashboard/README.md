@@ -17,7 +17,7 @@ Includes a **boxplot visualization** to show the distribution of marks.
 
 ## 📂 Project Structure
 numpy tutorial/projects/Statistics dashboard/
-|-- 2.py # main python script
+|-- main.py # main python script
 |-- requirements.txt # dependencies
 |-- README.md # Project description
 
